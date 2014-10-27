@@ -1,0 +1,3 @@
+Hej EC!
+
+notepad MyFirsNotePad.txt
